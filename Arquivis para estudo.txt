@@ -3,5 +3,5 @@ pesquisar sobre o matplotlib
 
 
 
-https://matplotlib.org/gallery/lines_bars_and_markers/stackplot_demo.html#sphx-glr-gallery-lines-bars-and-markers-stackplot-demo-py
+https://matplotlib.org/gallery/index.html
 https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1
